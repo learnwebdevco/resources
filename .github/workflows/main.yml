@@ -1,0 +1,29 @@
+name: Main
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+      - uses: actions/checkout@v2
+      
+      - name: cargo install mdbook
+        run: cargo install mdbook
+
+      - name: mdbook build
+        run: mdbook build
+
+      - name: gh pages deploy
+        if: ${{ github.event_name != 'pull_request' }}
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: book
