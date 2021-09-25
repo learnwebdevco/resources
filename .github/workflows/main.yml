@@ -21,10 +21,10 @@ jobs:
       - name: tar mdbook
         run: tar -zxvf ./mdbook.tar.gz
       
-      - name: ./mdbook build
+      - name: mdbook build
         run: ./mdbook build
 
-      - name: gh pages deploy
+      - name: deploy github pages
         if: ${{ github.event_name != 'pull_request' }}
         uses: peaceiris/actions-gh-pages@v3
         with:
