@@ -2,15 +2,22 @@
 
 ## Contributing
 
+
+#### Download and install mdBook
+
+- https://github.com/rust-lang/mdBook/releases
+
 #### Clone the repository
 
 ```sh
 git clone git@github.com:webdevph2/resources.git
 ```
 
-#### Download and install mdBook
+#### Navigate to the folder
 
-- https://github.com/rust-lang/mdBook/releases
+```sh
+cd ./resources
+```
 
 #### Serve with mdBook
 
