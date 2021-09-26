@@ -4,6 +4,8 @@ Welcome to **Web Dev PH Resources**!
 
 Here you'll find resources for learning web development.
 
+---
+
 For all the links, go to <https://webdevph.info/>.
 
 For resources, go to <https://resources.webdevph.info/>.
