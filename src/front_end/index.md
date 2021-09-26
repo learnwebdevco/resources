@@ -4,3 +4,4 @@
 - JavaScript
 - React.js
 - UI / UX
+- Extras

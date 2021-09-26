@@ -2,7 +2,6 @@
 
 ## Contents
 
-- Hardware & Networking
-- Programming
-- VSCode
+- Introductory Concepts
+- Visual Studio Code
 - Git, GitHub, Markdown
