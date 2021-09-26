@@ -2,7 +2,7 @@
 
 Welcome to **Web Dev PH Resources**!
 
-Here you'll find resources for learning web development.
+Here you'll find the resources for learning web development.
 
 ---
 
