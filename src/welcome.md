@@ -14,3 +14,9 @@ const foo = 'bar';
 ```sh
 apt install git
 ```
+
+## Get Started
+```javascript,editable
+function hello() {
+    console.log("hello world!")
+}
