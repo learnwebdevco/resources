@@ -4,7 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Web Dev PH Resources"
-description = "Resources for learning front-end and back-end development."
+description = "Resources for learning web development."
 
 [output.html]
 git-repository-icon = "fa-github"

@@ -6,10 +6,10 @@ Here you'll find courses, references, and documentations for learning web develo
 
 For all the links, go to [webdevph.info](https://webdevph.info/).
 
-For the tutorials, go to [tutorials.webdevph.info](https://tutorials.webdevph.info/).
+For resources, go to [resources.webdevph.info](https://resources.webdevph.info/).
 
-For the assessment projects, go to [projects.webdevph.info](https://projects.webdevph.info/).
+For tutorials, go to [tutorials.webdevph.info](https://tutorials.webdevph.info/).
 
-For the internship, go to [internship.webdevph.info](https://internship.webdevph.info/).
+For projects, go to [projects.webdevph.info](https://projects.webdevph.info/).
 
-You are here at [resources.webdevph.info](https://resources.webdevph.info/).
+For internship, go to [internship.webdevph.info](https://internship.webdevph.info/).
