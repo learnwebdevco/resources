@@ -2,7 +2,7 @@
 
 ## Contents
 
-- Programming
 - Hardware & Networking
+- Programming
 - VSCode
 - Git, GitHub, Markdown

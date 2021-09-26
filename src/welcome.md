@@ -4,12 +4,12 @@ Welcome to **Web Dev PH Resources**!
 
 Here you'll find courses, references, and documentations for learning web development.
 
-For all the links, go to [webdevph.info](https://webdevph.info/).
+For all the links, go to <https://webdevph.info/>.
 
-For resources, go to [resources.webdevph.info](https://resources.webdevph.info/).
+For resources, go to <https://resources.webdevph.info/>.
 
-For tutorials, go to [tutorials.webdevph.info](https://tutorials.webdevph.info/).
+For tutorials, go to <https://tutorials.webdevph.info/>.
 
-For projects, go to [projects.webdevph.info](https://projects.webdevph.info/).
+For projects, go to <https://projects.webdevph.info/>.
 
-For internship, go to [internship.webdevph.info](https://internship.webdevph.info/).
+For internship, go to <https://internship.webdevph.info/>.
