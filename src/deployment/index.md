@@ -2,6 +2,8 @@
 
 - Ubuntu Linux
 - Cloud Networking
+- Cloud Services
+- DevOps
 - Security
 - Reliability
-- Uncategorized
+- Privacy

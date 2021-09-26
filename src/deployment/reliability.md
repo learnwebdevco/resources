@@ -10,3 +10,9 @@
   - <https://kkovacs.eu/software-project-best-practices-checklist>
 - Enterprise Ready
   - <https://www.enterpriseready.io/>
+
+## Tools
+
+- Google Performance Checks
+  - <https://web.dev/measure/>
+  - <https://developers.google.com/speed/pagespeed/insights/>
