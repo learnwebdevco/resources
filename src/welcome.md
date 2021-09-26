@@ -1,23 +1,15 @@
 # Welcome
 
-## h2 test
+Welcome to **Web Dev PH Resources**!
 
-#### h4 test
+Here you'll find courses, references, and documentations for learning web development.
 
-- sfd
-- sdf
+For all the links, go to [webdevph.info](https://webdevph.info/).
 
-```js
-const foo = 'bar';
-```
+For the tutorials, go to [tutorials.webdevph.info](https://tutorials.webdevph.info/).
 
-```sh
-apt install git
-```
+For the assessment projects, go to [projects.webdevph.info](https://projects.webdevph.info/).
 
-## Get Started
-```javascript,editable
-function hello() {
-    console.log("hello world!")
-}
-```
+For the internship, go to [internship.webdevph.info](https://internship.webdevph.info/).
+
+You are here at [resources.webdevph.info](https://resources.webdevph.info/).
