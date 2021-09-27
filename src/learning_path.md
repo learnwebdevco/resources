@@ -22,14 +22,11 @@
 
 ## Intermediate Level
 
-#### Developer tools
+#### Front-end
 
 - [ESLint](./front_end/extras.md#eslint) for code linting.
 - [ESBuild](./front_end/extras.md#esbuild) for js bundling and minifying.
 - [PostCSS](./front_end/extras.md#postcss) for css bundling and minifying.
-
-#### Front-end
-
 - [React.js](./front_end/reactjs.md) for a better developer experience.
 
 #### Back-end
