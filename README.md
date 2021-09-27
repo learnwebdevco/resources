@@ -10,7 +10,7 @@
 #### Clone the repository
 
 ```sh
-git clone git@github.com:webdevph2/resources.git
+git clone git@github.com:learnwebdevco/resources.git
 ```
 
 #### Navigate to the folder

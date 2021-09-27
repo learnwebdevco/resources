@@ -4,7 +4,7 @@
 
 ### Discord
 
-- Web Dev PH
+- Learn Web Dev
   - <https://discord.gg/8dYZa9dSQ7>
 - Academic PH
   - <https://discord.gg/dJtVjfGtcT>

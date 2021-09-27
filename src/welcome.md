@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to **Web Dev PH Resources**!
+Welcome to **Learn Web Dev Resources**!
 
 Here you'll find the resources for learning web development.
 

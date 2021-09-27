@@ -1,6 +1,7 @@
 # Summary
 
 - [Welcome](./welcome.md)
+- [Learning Path](./learning_path.md)
 - [Communities](./communities.md)
 - [Essentials](./essentials/index.md)
   - [Introductory Concepts](./essentials/introductory_concepts.md)
