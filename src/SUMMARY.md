@@ -14,7 +14,7 @@
   - [UI / UX](./front_end/ui_ux.md)
   - [Extras](./front_end/extras.md)
 - [Back-end](./back_end/index.md)
-  - [Intro](./back_end/intro.md)
+  - [Back-end Concepts](./back_end/back_end_concepts.md)
   - [Node.js](./back_end/node_js.md)
   - [Web Frameworks](./back_end/web_frameworks.md)
   - [Databases](./back_end/databases.md)

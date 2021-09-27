@@ -1,13 +1,20 @@
-# Intro
+# Back-end Concepts
 
 ## Concepts
 
-- DNS
-- TCP, UDP
-- HTTP, HTTPS, TLS, SSL
-- HTTP Request Method
-- HTTP Response Status
-- HTTP Headers
+- What is DNS?
+- What are Servers and Clients?
+- What is a Web Server?
+- What are TCP and UDP, their difference?
+- What are HTTP and HTTPS, their difference?
+- What is TLS and SSL, their difference?
+- What are HTTP requests and responses?
+- What are HTTP request methods?
+- What are HTTP response statuses?
+- What are HTTP headers?
+- What are HTTP bodies?
+
+> Hint: You may search these on Google for answers
 
 ## Free Courses
 
