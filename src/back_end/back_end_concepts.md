@@ -14,7 +14,7 @@
 - What are HTTP headers?
 - What are HTTP bodies?
 
-> Hint: You may search these on Google for answers
+> You may search these on Google for answers
 
 ## Free Courses
 
