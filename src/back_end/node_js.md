@@ -25,16 +25,7 @@
 - How to read and write files with Node.js?
 - How to read and write JSON files with Node.js?
 
-#### HTTP API
-
-- How to use the "http" api?
-- How to create an HTTP server with Node.js?
-- How to handle a GET request with Node.js?
-- How to serve HTML data with Node.js?
-- How to serve JSON data with Node.js?
-- How to serve images with Node.js?
-
-#### Other APIs
+#### Uncategorized
 
 - How to use the "os" api?
 - How to use the "process" api?

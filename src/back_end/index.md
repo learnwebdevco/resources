@@ -1,7 +1,7 @@
 # Back-end
 
-- Intro
 - Node.js
+- DNS, HTTP
 - Web Frameworks
 - Databases
 - API Design
