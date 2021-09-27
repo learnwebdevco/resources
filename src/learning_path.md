@@ -8,11 +8,11 @@
 
 #### Developer tools
 
-- [Visual Studio Code](./essentials/visual_studio_code.md) to write and run code in your device.
-- [Alternative Online IDEs](./essentials/visual_studio_code.md#alternative-online-ides) to write and run code in your browser.
-- [Git](./essentials/git_github_markdown.md) to effectively track your code changes.
-- [GitHub](./essentials/git_github_markdown.md) to effectively share your code with other people.
-- [GitHub Gist](https://gist.github.com/) to effectively share code snippets with other people.
+- [Visual Studio Code](./essentials/visual_studio_code.md) to code in your desktop.
+- [Alternative Online IDEs](./essentials/visual_studio_code.md#alternative-online-ides) to code in your browser.
+- [Git](./essentials/git_github_markdown.md) to track your code changes.
+- [GitHub](./essentials/git_github_markdown.md) to share code and collaborate with people.
+- [GitHub Gist](https://gist.github.com/) to share code snippets.
 
 #### Front-end
 
