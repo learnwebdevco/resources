@@ -2,10 +2,10 @@
 
 ## Free Courses
 
-- Scrimba, Introduction to JavaScript
-  - <https://scrimba.com/learn/introductiontojavascript>
-- Scrimba, Introduction to JavaScript ES6+
-  - <https://scrimba.com/learn/introtoes6>
+- Scrimba, Learn JavaScript for free
+  - <https://scrimba.com/learn/learnjavascript>
+- Scrimba, Learn modern JavaScript
+  - <https://scrimba.com/learn/es6>
 - FreeCodeCamp, Learning JavaScript
   - <https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/>
   - <https://www.youtube.com/watch?v=PkZNo7MFNFg>
