@@ -1,5 +1,24 @@
 # JavaScript
 
+## Concepts
+
+- What is JavaScript?
+- How to use data types? (primitives, arrays, objects, classes)
+- How to use operators? (equality, compariso)
+- How to use flow control? (if-else, switch-case, for-loop, while-loop)
+- How to use functions? (sync, async)
+- How to use ES6+ JavaScript?
+- How to use timers?
+
+#### Web Browser APIs
+
+- How to interact with the DOM?
+- How to use Fetch API?
+- How to use WebSocket API?
+- How to use the LocalStorage API?
+
+> You may search these on Google for answers
+
 ## Free Courses
 
 - Scrimba, Learn JavaScript for free

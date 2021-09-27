@@ -2,13 +2,21 @@
 
 ## Concepts
 
-- HTML, Window, DOM
-- Elements (headings, paragraphs, inputs, buttons)
-- Form Inputs (text, number, date, time, file)
-- Dialogs (alert, confirm, prompt)
-- CSS Styling, Flexbox
-- Responsiveness (mobile, tablet, desktop)
-- CSS Frameworks
+#### HTML
+
+- What is HTML?
+- What are HTML elements? (headings, paragraphs, inputs, buttons)
+- What are HTML form inputs? (text, number, date, time, file)
+
+#### CSS
+
+- What is CSS?
+- How to apply CSS styling?
+- How to use margin, padding, flexbox, etc?
+- How to use CSS for responsiveness?
+- How to use CSS Frameworks?
+
+> You may search these on Google for answers
 
 ## Free Courses
 

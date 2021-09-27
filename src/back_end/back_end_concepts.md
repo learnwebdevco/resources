@@ -2,12 +2,17 @@
 
 ## Concepts
 
+#### Protocols
+
 - What is DNS?
-- What are Servers and Clients?
 - What is a Web Server?
-- What are TCP and UDP, their difference?
-- What are HTTP and HTTPS, their difference?
-- What is TLS and SSL, their difference?
+- What are Servers and Clients?
+- What are TCP and UDP?
+- What are HTTP and HTTPS?
+- What is TLS and SSL?
+
+#### HTTP Requests & Responses
+
 - What are HTTP requests and responses?
 - What are HTTP request methods?
 - What are HTTP response statuses?

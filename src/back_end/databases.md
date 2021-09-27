@@ -2,14 +2,20 @@
 
 ## Concepts
 
-- Relational, Non-relational
-- ACID, CAP Theorem
-- OLTP, OLAP
-- CRUD, Pagination
-- PostgreSQL
-- Redis
-- ElasticSearch
-- ClickHouse
+#### Database Concepts
+
+- What are Relational and Non-relational databases?
+- What is ACID?
+- What is CAP Theorem?
+- What is OLTP, OLAP?
+- What is CRUD, Pagination?
+
+#### Database Examples
+
+- What is PostgreSQL?
+- What is Redis?
+- What is ElasticSearch?
+- What is ClickHouse?
 
 ## Free Courses
 
